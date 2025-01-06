@@ -1,7 +1,5 @@
 
-   
-   
-        //  task 1
+     //  task 1
 
 
 // const array = [1, 2, 3, 4, 5];
@@ -129,18 +127,25 @@
  
        //  task 1
 
-       const numbers = [1, 2, 3, 4, 5];
-    const squaredNumbers = numbers.map(num => num ** 2);
-    console.log(squaredNumbers); // Output: [1, 4, 9, 16, 25]
+//        const numbers = [1, 2, 3, 4, 5];
+//     const squaredNumbers = numbers.map(num => num ** 2);
+//     console.log(squaredNumbers); // Output: [1, 4, 9, 16, 25]
     
 
 
        //  task 2
 
 
-       const evens = array.filter(num => num % 2 === 0);
-       console.log(evens); // Output: [2, 4]
+//        const evens = array.filter(num => num % 2 === 0);
+//        console.log(evens); // Output: [2, 4]
        
+
+
+       //  task 3
+       
+//        const numbers = [1, 2, 3, 4, 5];
+// const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+// console.log(sum);
 
 
 
